@@ -320,6 +320,7 @@ home.html
 
 </html>
 ```
+
 contact.html
 ```
 <!DOCTYPE html>
@@ -564,6 +565,7 @@ contact.html
 </html>
 ```
 directors.html
+```
 <!DOCTYPE html>
 <html lang="en">
 
